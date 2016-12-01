@@ -8,4 +8,4 @@
 #import "ZQImageBrowserModel.h"
 
 
-#endif /* ZQPhoto_h */
+#endif /* ZQImage_h */

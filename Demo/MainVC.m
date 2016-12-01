@@ -8,7 +8,7 @@
 
 #import "MainVC.h"
 #import "ViewController.h"
-#import "ZQPhoto.h"
+#import "ZQPhotoBrowser.h"
 
 @interface MainVC ()
 
@@ -36,6 +36,10 @@
     [self.navigationController setToolbarHidden:NO];
 }
 
+-(void) ok {
+    
+    NSLog(@"这里你可以自已加东西,这个按钮不是必须的,只是示例如何加入按钮");
+}
 
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     

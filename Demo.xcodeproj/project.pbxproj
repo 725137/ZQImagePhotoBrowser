@@ -123,7 +123,7 @@
 		DBE238361DEEC9BF009C099D /* MainVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainVC.h; sourceTree = "<group>"; };
 		DBE238371DEEC9BF009C099D /* MainVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainVC.m; sourceTree = "<group>"; };
 		DBE238391DEED131009C099D /* ZQImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZQImage.h; sourceTree = "<group>"; };
-		DBE2383B1DEED1DB009C099D /* ZQPhoto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZQPhoto.h; sourceTree = "<group>"; };
+		DBE2383B1DEED1DB009C099D /* ZQPhotoBrowser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZQPhotoBrowser.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -249,7 +249,7 @@
 				DBE237F71DEEC8E8009C099D /* ZQPhotoBrowserModel.m */,
 				DBE237F81DEEC8E8009C099D /* ZQPhotoBrowserVC.h */,
 				DBE237F91DEEC8E8009C099D /* ZQPhotoBrowserVC.m */,
-				DBE2383B1DEED1DB009C099D /* ZQPhoto.h */,
+				DBE2383B1DEED1DB009C099D /* ZQPhotoBrowser.h */,
 			);
 			path = ZQPhotoBrowser;
 			sourceTree = "<group>";

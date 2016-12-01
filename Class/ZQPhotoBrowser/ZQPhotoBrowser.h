@@ -6,11 +6,11 @@
 //  Copyright © 2016年 zq. All rights reserved.
 //
 
-#ifndef ZQPhoto_h
-#define ZQPhoto_h
+#ifndef ZQPhotoBrowser_h
+#define ZQPhotoBrowser_h
 
 #import "ZQPhotoBrowserVC.h"
 #import "ZQPhotoBrowserModel.h"
 #import "ZQPhotoBrowserCell.h"
 
-#endif /* ZQPhoto_h */
+#endif /* ZQPhotoBrowser_h */
