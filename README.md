@@ -12,6 +12,8 @@
  用于显示类微信那种飞出来又飞回去的图片,继承自UIView,可以方便的加到任何地方,只需要指定原UIImageView,它就可以帮你实现飞来飞去的效果,自带两种动画效果.
  一种是飞来飞去的.一种是用于显示头像的,淡入淡出的效果
 
+### 注意
+  info.plist中应该设置View controller-based status bar appearance 为 YES
 ###示例代码
 
 -(void) initModels {
